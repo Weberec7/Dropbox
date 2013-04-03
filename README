@@ -1,1 +1,2 @@
-Prontofolio Dropbox App README file
+This repo contains a small selection of code I am currently using to develop a portfolio app for Dropbox.  These php scripts are used to create the user registration and login pages.
+Many of the pages are adaptations from http://phpsense.com/2006/php-login-script/
